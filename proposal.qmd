@@ -1,6 +1,6 @@
 ---
-title: "TITLE"
-subtitle: "SUBTILE"
+title: "ETH ORD Explore Proposal"
+subtitle: "Qualitative Data"
 format: 
   docx:
     number-sections: true
