@@ -139,20 +139,31 @@ Please explain which aim(s) of the ORD "contribute projects" you seek to address
 
 It is important that Explore projects are not self-centred but emphasize exchanges in the spirit of Open Science with other researchers, technical experts, and stakeholders.
 
-## Section 1.1
-
--   One paragraph. 50 to 70 words
--   Reference @wilkinson2016fair
-
-## Section 1.2
-
--   One paragraph. 50 to 70 words
-
-## Section 1.3
+## Section 1.1: Qualitative data
 
 -   One to two paragraphs (100 to 150 words)
 
-## Section 1.4
+**Resources:**
+
+1. https://ghe.ethz.ch/ghe-blog-news/2023/09/blog-in-an-era-of-open-science-how-is-transparency-shifting-within-qualitative-research.html
+
+**Outline**
+
+- Focus on data from semi-structured interviews
+  - history
+  - current practice
+  - limitations
+  - potential for FAIR open data
+
+## Section 1.2: USYS TdLab
+
+-   One paragraph. 50 to 70 words
+
+## Section 1.3: Data stewardship support
+
+-   One to two paragraphs (100 to 150 words)
+
+## Section 1.4: RDM Guidelines
 
 -   One to two paragraphs (100 to 150 words)
 
